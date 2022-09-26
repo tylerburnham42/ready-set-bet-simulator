@@ -1,0 +1,37 @@
+Win %
+Total Races: 100000
+Horse 02/03 - 0.0282
+Horse 04 - 0.0544
+Horse 05 - 0.1206
+Horse 06 - 0.1924
+Horse 07 - 0.2131
+Horse 08 - 0.1904
+Horse 09 - 0.1188
+Horse 10 - 0.0544
+Horse 11/12 - 0.0280
+
+
+Total Places: 226530
+Place %
+Horse 02/03 - 0.0393
+Horse 04 - 0.0602
+Horse 05 - 0.1194
+Horse 06 - 0.1777
+Horse 07 - 0.2090
+Horse 08 - 0.1771
+Horse 09 - 0.1179
+Horse 10 - 0.0605
+Horse 11/12 - 0.0390
+
+
+Total Shows: 327289
+Show %
+Horse 02/03 - 0.0481
+Horse 04 - 0.0664
+Horse 05 - 0.1209
+Horse 06 - 0.1716
+Horse 07 - 0.2000
+Horse 08 - 0.1692
+Horse 09 - 0.1163
+Horse 10 - 0.0629
+Horse 11/12 - 0.0446
